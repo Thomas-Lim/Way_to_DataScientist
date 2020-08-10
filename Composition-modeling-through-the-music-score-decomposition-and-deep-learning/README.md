@@ -1,7 +1,10 @@
-# gitPractice_01
+# 악보분해를 통한 작곡 모델링 :+1:
 
-### 주요기능
-1. 길찾기
-2. 작곡
+### 사용 비교 Methods
+1. MLP
+2. Vanilla RNN
+3. Stateful LSTM
+4. GRU
 
-- 이것은 무엇인가
+  - 참고사이트 : https://tykimos.github.io/2017/04/09/RNN_Layer_Talk/
+
